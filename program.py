@@ -1,8 +1,8 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import sklearn
-from sklearn import datasets
+import scikit learn
+from scikit learn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""Simple Iris Flower Prediction""")
